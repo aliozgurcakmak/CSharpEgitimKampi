@@ -17,8 +17,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08_Methods", "08_Methods\08
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_ForeachLoops", "07_ForeachLoops\07_ForeachLoops.csproj", "{30819A87-56FE-4305-BF0E-3D32F156643E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09_DatabaseProject", "09_DatabaseProject\09_DatabaseProject.csproj", "{8F3AC1E1-40F4-447D-826C-FDA2C57043C8}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_MakingDecisionn", "03_MakingDecisionn\03_MakingDecisionn.csproj", "{A38DB31A-B38E-4ED5-BDD0-6009DC7D7FA5}"
 EndProject
 Global
@@ -55,10 +53,6 @@ Global
 		{30819A87-56FE-4305-BF0E-3D32F156643E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{30819A87-56FE-4305-BF0E-3D32F156643E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{30819A87-56FE-4305-BF0E-3D32F156643E}.Release|Any CPU.Build.0 = Release|Any CPU
-		{8F3AC1E1-40F4-447D-826C-FDA2C57043C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8F3AC1E1-40F4-447D-826C-FDA2C57043C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8F3AC1E1-40F4-447D-826C-FDA2C57043C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8F3AC1E1-40F4-447D-826C-FDA2C57043C8}.Release|Any CPU.Build.0 = Release|Any CPU
 		{A38DB31A-B38E-4ED5-BDD0-6009DC7D7FA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{A38DB31A-B38E-4ED5-BDD0-6009DC7D7FA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A38DB31A-B38E-4ED5-BDD0-6009DC7D7FA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
